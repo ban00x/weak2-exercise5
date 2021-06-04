@@ -1,0 +1,11 @@
+answers for ex.5 weak.2.	
+
+1.You can use the command git log --stat to see the files changed within 
+each commit.
+
+
+2.you can use the command git log --patch to see the contents of what changed 
+within each file 
+
+3.HEAD means current branch. When switching branches, the HEAD changes 
+to point to the tip of the new branch.
